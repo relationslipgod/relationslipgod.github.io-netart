@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <title>Hello title!</title>
+    </head>
+
+    <body>
+
+        Hello Internet!
+        <h1>Hello Internet!</h1>
+        <h2>Hello Internet!</h2>
+        <h3>Hello Internet!</h3>
+        <h4>Hello Internet!</h4>
+
+        <p>Hello world this is a paragraph.</p>
+        <p>Hey universe this is my second paragraph.</p> <a href=https://www.wired.com/2014/08/shark-cable/> Here is a link to an article about the internet.</a></p>
+
+    </body>
+</html>

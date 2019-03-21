@@ -1,0 +1,55 @@
+/* Ref: http://w3schools.com/css/css_syntax.asp */
+body,html {
+  height: 100%;
+  width: 100%;
+}
+
+body { /* General style rules for the body section */
+        background-color:black;
+        color: lightblue;
+        text-align: center;
+}
+
+h1 {
+  color: yellow;
+  text-decoration: underline;
+}
+
+h3 { /* Matches elements with h3 tag */
+  color: white;
+}
+
+#div1 { /* Matches element with id=SimpleDiv */
+  /*background-color: gray;*/
+
+  color: pink;
+
+  border-style: solid groove;
+  border-width: 5px;
+  border-color: green;
+  margin: 5%;
+  padding: 6px;
+}
+
+#div2{
+  /*background-color: #CC1A54;*/
+  margin: 5%;
+  padding: 6px;
+  float: left;
+  width: 20%;
+}
+
+#div3{
+  /*background-color: #F1FF47;*/
+  margin: 5%;
+  padding: 6px;
+  float: right;
+  width: 50%;
+}
+
+#div4{
+  /*background-color: #D307FF;*/
+  margin: 5%;
+  padding: 6px;
+  clear:both;
+}
