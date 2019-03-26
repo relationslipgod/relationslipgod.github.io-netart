@@ -7,7 +7,7 @@
   </head>
   <body>
     <div id="div1">
-    <h1><marquee>Hello Internet!</marquee></h1>
+    <h1>Hello Internet!</h1>
     <h2>I'm here to tell you about my first internet memory!</h2>
     </div>
 
@@ -17,8 +17,7 @@
     </div>
 
     <div id="div3">
-    <p>Here you can get a more personal story of my physical connection with the Internet!</p>
-    <p><a href="pagethree.html">Start here?</a></p>
+    <p>Hey universe this is my second paragraph.</p>
     </div>
 
     <div id="div4">
